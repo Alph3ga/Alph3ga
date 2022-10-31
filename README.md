@@ -16,7 +16,7 @@
 ---
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Alph3ga&theme=prussian&border_radius=5" alt="Github Stats" />  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph3ga&theme=prussian&layout=compact" alt="Most Used Languages"/>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph3ga&theme=prussian&layout=compact&langs_count=6" alt="Most Used Languages"/>  
 
 <!---
 Alph3ga/Alph3ga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
