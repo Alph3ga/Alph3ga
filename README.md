@@ -4,6 +4,8 @@
 ### :bust_in_silhouette: Currently, I am a student at IIT Kharagpur
 <br>
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/akashneelraychaudhuri/)
+
 &nbsp;&nbsp;&nbsp;&nbsp;My skillset includes in-demand languages like **Python**, **Java**, and **Javascript**. I can code in less abstacted languages like **C++**, and have even dabbled into the grassroots of programming by learning basics of **Intel** ***x86-64*** **assembly**; providing me an insight into the working of our systems that most programming languages abstract to obscurity. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Static webpages are a part of several of my projects, showcasing not only Javascript programming, but also sufficient use of CSS. I have a repository devoted to Data Structures and Algorithms, in both C++ and Python. I have done projects in Java regarding noise generation and image processing, as well as made games incorporating my own physics engine.
