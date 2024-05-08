@@ -1,7 +1,7 @@
 # Hey, Akashneel Raychaudhuri here :wave:
 
-- *19 year old coding enthusiast*  
-- *Student at* ***IIT Kharagpur***
+- *20 year old coding enthusiast*  
+- *Undergraduate student at* ***IIT Kharagpur***
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/akashneelraychaudhuri/)
 [![Github Badge](https://img.shields.io/github/followers/Alph3ga?label=Follow)](https://github.com/Alph3ga)
